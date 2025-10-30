@@ -65,7 +65,9 @@ The goal of this dashboard is to provide a **comprehensive view of sales perform
 **Conclusion:**
 This Sales Dashboard transforms raw data into actionable insights, enabling the company to make smarter, faster, and more data-driven business decisions while improving profitability and strategic planning.
 
+#Screenshot of Dashboard
 
-Conditional Formatting and Chart Customization
+<img width="1366" height="584" alt="Screenshot (797)" src="https://github.com/user-attachments/assets/7d4794c4-61f9-4f52-9718-6efda893f708" />
+
 
 Data Visualization Techniques – Funnel chart, Line chart, Map chart, Pie chart, and Bar chart
